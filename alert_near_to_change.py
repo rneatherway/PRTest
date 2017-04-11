@@ -4,11 +4,7 @@ def alert_near_to_change():
 
     # These commends are just padding between the alert and the change
     # comment 1
-    # comment 2
-    # comment 3
-    # comment 4
-    # comment 6
-    # comment 7
+    # comment 31
     # comment 8
     # comment 9
     # comment 10
@@ -64,4 +60,3 @@ def alert_near_to_change():
     
     return
     x = 42
-    print "Hello, World!"
