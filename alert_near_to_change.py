@@ -62,5 +62,6 @@ def alert_near_to_change():
     # comment 29
     # comment 30
     
+    return
     x = 42
     print "Hello, World!"

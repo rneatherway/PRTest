@@ -10,3 +10,4 @@ def remove_alert():
     # comment 5
     
     x = 42
+    x = 43

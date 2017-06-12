@@ -63,3 +63,4 @@ def alert_far_from_change():
     # comment 30
     
     x = 42
+    x = 43
