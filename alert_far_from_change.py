@@ -31,7 +31,7 @@ def alert_far_from_change():
     # comment 29
     # comment 30
     
-    print "Hello, World!"
+    print "Hello, World!" % x
 
     # These commends are just padding between the alert and the change
     # comment 1
